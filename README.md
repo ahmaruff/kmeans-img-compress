@@ -16,7 +16,7 @@ The study explored the impact of cluster numbers (K) on compression ratio and Pe
 The default value of 96 clusters in this library is based on these empirical findings from my thesis research.
 
 **Research Repository**: [Image Compression using K-Means](https://github.com/ahmaruff/image-compression-using-kmeans)  
-**Paper**: Coming soon (will be added once published)
+**Paper**: [Ekstraksi Palet Warna untuk Kompresi Gambar Digital menggunakan Algoritma K-Means - Jurnal Informatika dan Rekayasa Perangkat Lunak](https://publikasiilmiah.unwahas.ac.id/JINRPL/article/view/12557)
 
 ## Installation
 
